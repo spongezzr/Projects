@@ -1,0 +1,5 @@
+Pillow
+requests
+tensorflow>=1.6
+numpy
+scipy
