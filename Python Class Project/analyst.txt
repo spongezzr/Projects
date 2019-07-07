@@ -1,0 +1,1 @@
+{"AAPL": {"sell": "0", "hold": "8", "buy": "20", "strongbuy": "0"}, "TSLA": {"sell": "14", "hold": "12", "buy": "7", "strongbuy": "0"}, "CRM": {"sell": "0", "hold": "4", "buy": "34", "strongbuy": "1"}, "S&P": {"sell": "0", "hold": "0", "buy": "0", "strongbuy": "0"}, "NFLX": {"sell": "4", "hold": "12", "buy": "31", "strongbuy": "0"}}
