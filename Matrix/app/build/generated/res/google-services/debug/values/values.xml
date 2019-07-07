@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">712959033117-j2h3t36bl1nmdo12khnd42k1j0jdg9pc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://matrix-a83ae.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">712959033117</string>
+    <string name="google_api_key" translatable="false">AIzaSyBgicx06w9IW9tlP2WcPob9QLvRAaU8AoE</string>
+    <string name="google_app_id" translatable="false">1:712959033117:android:55b1566f9b4c895b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBgicx06w9IW9tlP2WcPob9QLvRAaU8AoE</string>
+    <string name="google_storage_bucket" translatable="false">matrix-a83ae.appspot.com</string>
+    <string name="project_id" translatable="false">matrix-a83ae</string>
+</resources>
