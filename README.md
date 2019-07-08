@@ -45,4 +45,17 @@
 
       Written in R and Tableau.
       Visualize Amsterdam Airbnb housing prices and their decisive factors on a map. 
+      
+#### - Web Applicatipon:
+
+      Written in JavaScript, CSS, HTML, and Java.
+      Back End:
+      Created Java servlets with RESTful APIs to handle HTTP requests and responses.
+      Built relational and NoSQL databases (MySQL, MongoDB) to capture real business data from Yelp API.
+      Designed algorithms (e.g., content-based recommendation) to implement business recommendation.
+      Deployed server side to Amazon EC2 to handle 150 queries per second tested by Apache JMeter.
+      Front End:
+      Designed an interactive web page utilizing AJAX technology (HTML, CSS and JavaScript).
+      Developed an Android mobile app for users to search nearby businesses based on locations.
+
 
