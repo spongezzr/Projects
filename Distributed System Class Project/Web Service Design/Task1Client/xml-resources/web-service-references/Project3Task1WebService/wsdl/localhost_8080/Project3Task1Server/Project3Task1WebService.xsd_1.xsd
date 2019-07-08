@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI (http://jax-ws.java.net). RI's version is Metro/2.3.1-b419 (branches/2.3.1.x-7937; 2014-08-04T08:11:03+0000) JAXWS-RI/2.2.10-b140803.1500 JAXWS-API/2.2.11 JAXB-RI/2.2.10-b140802.1033 JAXB-API/2.2.12-b140109.1041 svn-revision#unknown. --><xs:schema xmlns:tns="http://mm6.andrew.cmu.edu/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://mm6.andrew.cmu.edu/">
+
+<xs:element name="addTransaction" type="tns:addTransaction"/>
+
+<xs:element name="verifyBlockChain" type="tns:verifyBlockChain"/>
+
+<xs:element name="verifyBlockChainResponse" type="tns:verifyBlockChainResponse"/>
+
+<xs:element name="viewBlockChain" type="tns:viewBlockChain"/>
+
+<xs:element name="viewBlockChainResponse" type="tns:viewBlockChainResponse"/>
+
+<xs:complexType name="addTransaction">
+<xs:sequence>
+<xs:element name="data" type="xs:string" minOccurs="0"/>
+<xs:element name="difficulty" type="xs:int"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="viewBlockChain">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="viewBlockChainResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="verifyBlockChain">
+<xs:sequence/>
+</xs:complexType>
+
+<xs:complexType name="verifyBlockChainResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:boolean"/>
+</xs:sequence>
+</xs:complexType>
+</xs:schema>
