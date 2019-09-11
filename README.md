@@ -8,9 +8,9 @@
       Trained a Fully Convolutional Network with COCO dataset to segment all people faces from pictures. 
       Constructed a Fast Neural Network with VGG16 model as our data labels for image style transformation; 
       implemented perceptual optimization that directly optimized the feature reconstruction loss. 
-      
-![Image of sample final results]
-(https://ibb.co/1r11SXs)    
+
+#### Image of sample final results
+![Image of sample final results](https://i.ibb.co/n799W13/Final-Picture.png)    
       
 #### - Machine Learning Class Project: 
 
