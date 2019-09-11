@@ -9,7 +9,8 @@
       Constructed a Fast Neural Network with VGG16 model as our data labels for image style transformation; 
       implemented perceptual optimization that directly optimized the feature reconstruction loss. 
       
-      ![Image of sample final results](/Projects/Deep Learning Class Project/FinalPicture.png)    
+![Image of sample final results]
+(https://ibb.co/1r11SXs)    
       
 #### - Machine Learning Class Project: 
 
